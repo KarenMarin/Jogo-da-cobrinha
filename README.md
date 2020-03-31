@@ -5,4 +5,4 @@
 <p>This game is responsive, on mobile, it display buttons that replace the keyboard arrows keys</p>
 
 
-link: <a href="https://KarenMarin.github.io/snake-game/" target="_blank" >https://kelsonteixeira.github.io/snake-game/</a>
+link: <a href="https://KarenMarin.github.io/snake-game/" target="_blank" >https://KarenMarin.github.io/snake-game/</a>
